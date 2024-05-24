@@ -1,0 +1,7 @@
+C:\temp\projetos\DepartmentPayroll\DepartmentPayroll\obj\Debug\DepartmentPayroll.csproj.AssemblyReference.cache
+C:\temp\projetos\DepartmentPayroll\DepartmentPayroll\obj\Debug\DepartmentPayroll.csproj.CoreCompileInputs.cache
+C:\temp\projetos\DepartmentPayroll\DepartmentPayroll\bin\Debug\DepartmentPayroll.exe.config
+C:\temp\projetos\DepartmentPayroll\DepartmentPayroll\bin\Debug\DepartmentPayroll.exe
+C:\temp\projetos\DepartmentPayroll\DepartmentPayroll\bin\Debug\DepartmentPayroll.pdb
+C:\temp\projetos\DepartmentPayroll\DepartmentPayroll\obj\Debug\DepartmentPayroll.exe
+C:\temp\projetos\DepartmentPayroll\DepartmentPayroll\obj\Debug\DepartmentPayroll.pdb
